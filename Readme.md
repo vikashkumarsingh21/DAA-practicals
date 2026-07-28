@@ -318,8 +318,8 @@ DAA-Lab/
 
 | # | Practical | Algorithm(s) | Category | Languages | Difficulty | Status |
 |:-:|:---|:---|:---|:-:|:-:|:-:|
-| 01 | [Sorting Algorithms](./Practical-01) | Bubble, Selection, Insertion, Merge, Quick Sort | Sorting | 🔵 C · 🐍 Python | 🟢 Easy | ✅ Done |
-| 02 | [Searching Algorithms](./Practical-02) | Linear Search, Binary Search | Searching | 🔵 C · 🐍 Python | 🟢 Easy | ✅ Done |
+| 01 | [Sorting Algorithms](./Practical 1  - sorting) | Bubble, Selection, Insertion, Merge, Quick Sort | Sorting | 🔵 C · 🐍 Python | 🟢 Easy | ✅ Done |
+| 02 | [Searching Algorithms](./Practical 2  - searching) | Linear Search, Binary Search | Searching | 🔵 C · 🐍 Python | 🟢 Easy | ✅ Done |
 | 03 | [Heap Sort](./Practical-03) | Heap Sort | Sorting | 🔵 C · 🐍 Python | 🟡 Medium | ✅ Done |
 | 04 | [Factorial](./Practical-04) | Iterative & Recursive Factorial | Recursion | 🔵 C · 🐍 Python | 🟢 Easy | ✅ Done |
 | 05 | [Knapsack Problem](./Practical-05) | 0/1 Knapsack (DP) | Dynamic Programming | 🔵 C · 🐍 Python | 🔴 Hard | ✅ Done |
@@ -745,8 +745,8 @@ See the [LICENSE](./LICENSE) file for full details.
 🎓 B.Tech — Computer Science Engineering (Artificial Intelligence & Machine Learning)
 🏫 Marwadi University · 5th Semester
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikashkumarsingh21)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikas-kumar-0803r/)
 
 </div>
 
