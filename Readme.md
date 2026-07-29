@@ -318,8 +318,8 @@ DAA-Lab/
 
 | # | Practical | Algorithm(s) | Category | Languages | Difficulty | Status |
 |:-:|:---|:---|:---|:-:|:-:|:-:|
-| 01 | [Sorting Algorithms](./Practical 1  - sorting) | Bubble, Selection, Insertion, Merge, Quick Sort | Sorting | 🔵 C · 🐍 Python | 🟢 Easy | ✅ Done |
-| 02 | [Searching Algorithms](./Practical 2  - searching) | Linear Search, Binary Search | Searching | 🔵 C · 🐍 Python | 🟢 Easy | ✅ Done |
+| 01 | [Sorting Algorithms](./Practical-01) | Bubble, Selection, Insertion, Merge, Quick Sort | Sorting | 🔵 C · 🐍 Python | 🟢 Easy | ✅ Done |
+| 02 | [Searching Algorithms](./Practical-02) | Linear Search, Binary Search | Searching | 🔵 C · 🐍 Python | 🟢 Easy | ✅ Done |
 | 03 | [Heap Sort](./Practical-03) | Heap Sort | Sorting | 🔵 C · 🐍 Python | 🟡 Medium | ✅ Done |
 | 04 | [Factorial](./Practical-04) | Iterative & Recursive Factorial | Recursion | 🔵 C · 🐍 Python | 🟢 Easy | ✅ Done |
 | 05 | [Knapsack Problem](./Practical-05) | 0/1 Knapsack (DP) | Dynamic Programming | 🔵 C · 🐍 Python | 🔴 Hard | ✅ Done |
